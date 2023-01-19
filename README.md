@@ -31,7 +31,7 @@
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Arishandel/badges/large)](https://www.codewars.com/users/Arishandel)
 
 <p>
-  <img src="https://sun9-29.userapi.com/impg/3pjsDpwxIprSLAThQez0L4MSY7ExMgt8Nae8CQ/q04Y_GTFDJo.jpg?size=941x203&quality=96&sign=1e742d8a544a860bfa6e7332669b2fdd&type=album">
+  <a href='https://myshows.me/Arishandel'><img src="https://sun9-29.userapi.com/impg/3pjsDpwxIprSLAThQez0L4MSY7ExMgt8Nae8CQ/q04Y_GTFDJo.jpg?size=941x203&quality=96&sign=1e742d8a544a860bfa6e7332669b2fdd&type=album"></a>
 </p>
 
 Oh, no, these are TV series viewing statistics. Contribution statistics are below 👇🏼
