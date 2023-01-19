@@ -30,7 +30,11 @@
 ### My statistics:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Arishandel/badges/large)](https://www.codewars.com/users/Arishandel)
 
+<p>
+  <img src="https://sun9-22.userapi.com/impg/lrYKrNuKt9Tru9PuNrhKEFBIaPhkli_TndKjkQ/zjipPMc3h80.jpg?size=924x232&quality=96&sign=5e6abb1f839bc17aa06b51b0bcd6bf75&type=album">
+</p>
 
+Oh, no, these are TV series viewing statistics. Contribution statistics are below 👇🏼
 
 <!--
 **VincitQuiPatitur/VincitQuiPatitur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
