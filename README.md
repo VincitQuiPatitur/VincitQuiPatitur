@@ -35,6 +35,8 @@
 </p>
 
 Oh, no, these are TV series viewing statistics. Contribution statistics are below 👇🏼
+ 
+<img src='https://64.media.tumblr.com/e93fe903c85490df7ed185fa8c4d8ed0/tumblr_oo3p6rWscR1vw7u6fo3_540.gif' height='150'>
 
 <!--
 **VincitQuiPatitur/VincitQuiPatitur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
