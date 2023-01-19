@@ -30,13 +30,15 @@
 ### My statistics:
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Arishandel/badges/large)](https://www.codewars.com/users/Arishandel)
 
-<p>
-  <a href='https://myshows.me/Arishandel'><img src="https://sun9-29.userapi.com/impg/3pjsDpwxIprSLAThQez0L4MSY7ExMgt8Nae8CQ/q04Y_GTFDJo.jpg?size=941x203&quality=96&sign=1e742d8a544a860bfa6e7332669b2fdd&type=album"></a>
-</p>
+<div align="center">
+  <a href='https://myshows.me/Arishandel'><img src="https://sun9-29.userapi.com/impg/3pjsDpwxIprSLAThQez0L4MSY7ExMgt8Nae8CQ/q04Y_GTFDJo.jpg?size=941x203&quality=96&sign=1e742d8a544a860bfa6e7332669b2fdd&type=album" alt='TV series viewing statistics'></a>
+</div>
 
 Oh, no, these are TV series viewing statistics. Contribution statistics are below 👇🏼
  
-<img align="center" src='https://64.media.tumblr.com/e93fe903c85490df7ed185fa8c4d8ed0/tumblr_oo3p6rWscR1vw7u6fo3_540.gif' height='150'>
+<div align="center">
+  <img src='https://64.media.tumblr.com/e93fe903c85490df7ed185fa8c4d8ed0/tumblr_oo3p6rWscR1vw7u6fo3_540.gif' height='150' alt='Sasha'>
+</div>
 
 <!--
 **VincitQuiPatitur/VincitQuiPatitur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
