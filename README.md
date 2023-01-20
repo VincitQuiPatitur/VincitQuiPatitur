@@ -5,6 +5,7 @@
 - 🤓 I'm Yandex.Practicum student
 - 🌱 I’m currently learning React 🚀
 - 🔎 I'm currently looking for an internship or a job
+- 🏳️ I can speak <img src='https://github.com/hampusborgos/country-flags/blob/main/png100px/ru.png?raw=true' height="14">, <img src='https://github.com/hampusborgos/country-flags/blob/main/png100px/es.png?raw=true' height="14">, <img src='https://user-images.githubusercontent.com/74054656/213670945-897219b8-4234-40a6-8008-a9a43aaab3d4.png' height="14">
 - 📫 How to reach me:
   - Mail: [arinakostrova@yandex.ru](mailto:arinakostrova@yandex.ru) 
   - Telegram: [@vincitquipatitur](https://t.me/vincitquipatitur)
@@ -28,19 +29,22 @@
 </p>
 
 ### My statistics:
+
 [![Codewarrior Profile Badges](https://www.codewars.com/users/Arishandel/badges/large)](https://www.codewars.com/users/Arishandel)
 
+  
 <div>
 <a href="https://github-readme-stats.vercel.app/api?username=Comediant24&hide=contribs&show_icons=true">
-  <img  align="left" height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=VincitQuiPatitur&hide=contribs&show_icons=true" />
+  <img align='left' height="130" style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=VincitQuiPatitur&hide=contribs&show_icons=true" />
 </a>
 <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=Comediant24&layout=compact">
-  <img align="left" height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincitQuiPatitur&layout=compact" />
+  <img align='left'height="130" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VincitQuiPatitur&layout=compact" />
 </a>
 </div>
+<br>
 
-<div align="center">
-  <a href='https://myshows.me/Arishandel'><img src="https://sun9-29.userapi.com/impg/3pjsDpwxIprSLAThQez0L4MSY7ExMgt8Nae8CQ/q04Y_GTFDJo.jpg?size=941x203&quality=96&sign=1e742d8a544a860bfa6e7332669b2fdd&type=album" alt='TV series viewing statistics'></a>
+<div>
+  <a href='https://myshows.me/Arishandel'><img src="https://sun9-29.userapi.com/impg/3pjsDpwxIprSLAThQez0L4MSY7ExMgt8Nae8CQ/q04Y_GTFDJo.jpg?size=941x203&quality=96&sign=1e742d8a544a860bfa6e7332669b2fdd&type=album" alt='TV series viewing statistics' height='160'></a>
 </div>
 
 Oh, no, these are TV series viewing statistics. Contribution statistics are below 👇🏼
