@@ -2,7 +2,7 @@
 ### Hi there, my name is Arina 👋
 
 - 🎓 I'm Bachelor of Information Systems and Technology
-- 🎯 I want to be a frontend developer
+- 🎯 I want to be a Frontend Developer
 - 🤓 I'm Yandex.Practicum student
 - 🌱 I’m currently learning React 🚀
 - 🔎 I'm currently looking for an internship or a job
