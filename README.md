@@ -4,7 +4,7 @@
 - 🎓 I'm Bachelor of Information Systems and Technology
 - 🎯 I want to be a Frontend Developer
 - 🤓 I'm Yandex.Practicum student
-- 🌱 I’m currently learning React 🚀
+- 🌱 I’m currently learning Node.js
 - 🔎 I'm currently looking for an internship or a job
 - 🏳️ I can speak <img src='https://github.com/hampusborgos/country-flags/blob/main/png100px/ru.png?raw=true' height="14">, <img src='https://github.com/hampusborgos/country-flags/blob/main/png100px/es.png?raw=true' height="14">, <img src='https://user-images.githubusercontent.com/74054656/213670945-897219b8-4234-40a6-8008-a9a43aaab3d4.png' height="14">
 - 📫 How to reach me:
